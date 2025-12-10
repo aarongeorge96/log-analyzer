@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Data files
+data/*.log
+data/*.gz
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# Google credentials
+service-account.json
